@@ -1,0 +1,15 @@
+version="1.0"
+tags={
+	"Balance"
+	"Gameplay"
+	"Map"
+	"Graphics"
+	"New Nations"
+	"Religion"
+	"Technologies"
+	"National Ideas"
+	"Missions And Decisions"
+	"Trade"
+}
+name="CivUniversalis"
+supported_version="v1.37.*"
